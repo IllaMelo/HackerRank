@@ -1,6 +1,3 @@
-import numpy
-
-"n -> número de linhas"
 def salvarPrincesa(n):
     if n>=3 and < 100:
         matriz = []
@@ -41,7 +38,3 @@ def salvarPrincesa(n):
              
 
 salvarPrincesa(int(input()))
-'3'
-'---'
-'-m-'
-'p--'
